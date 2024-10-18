@@ -2,9 +2,7 @@
 <h3 align="center">Passionate about software design and development, strong understanding of end-to-end design processes, coupled with the ability to implement them in code.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 🔭 I’m currently working on **Front End Development**
-
-- 🌱 I’m currently learning **MERN**
+- 🔭 I’m currently working on **Front End Development** at @toptiertrader
 
 - 👨‍💻 All of my projects are available at [https://andrespoveda.xyz](https://andrespoveda.xyz)
 
