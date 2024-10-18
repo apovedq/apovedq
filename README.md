@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/andrspoveda](https://www.behance.net/andrspoveda)
+- 👨‍💻 All of my projects are available at [https://andrespoveda.xyz](https://andrespoveda.xyz)
 
 - 💬 Ask me about **HTML, CSS, React, MERN, Next.js, Remix Run, Redux, Tailwind CSS, Prisma, Firebase**
 
